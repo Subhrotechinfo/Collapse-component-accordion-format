@@ -1,6 +1,6 @@
-#### Collapse component - accordion format
+### Collapse component - accordion format
 
-### Tech Stack
+#### Tech Stack
 - Html5
 - Css3
 - Jquery
